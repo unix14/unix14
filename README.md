@@ -1,8 +1,4 @@
 ## Hi there 👋
-
-
-## Hello! 👋
-
 I'm **Eyal Yaakobi**, a Senior Android Developer, Flutter Developer, and AI Enthusiast. I own [3P Cups](https://3p-cups.blogspot.com/), an indie development studio specializing in apps and games. Previously, I was known by the username 'unix14'.
 
 ### Featured Projects
