@@ -20,6 +20,8 @@ I'm **Eyal Yaakobi**, a Senior Android Developer, Flutter Developer and AI Enthu
 - **Bitbucket**: [3P Cups Dev](https://bitbucket.org/3pCupsDev)
 
 - **Itch.io**: [unix14](https://unix14.itch.io/)
+- 
+- **Email**: [e-mail me](mailto:unix14@gmail.com)
 
 ### Collaborations and Freelance Opportunities
 
