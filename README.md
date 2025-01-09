@@ -5,19 +5,19 @@ I'm **Eyal Yaakobi**, a Senior Android Developer, Flutter Developer and AI Enthu
 
 - **[FreeTube](https://github.com/unix14/FreeTube)**: An Android app that allows users to watch YouTube without ads, featuring a customizable interface.
 
-- **[PaginatorX](https://github.com/unix14/paginatorx)**: A Flutter package that simplifies the implementation of pagination in your applications.
+- **[paginatorx](https://github.com/unix14/paginatorx)**: A Flutter package that simplifies the implementation of pagination in your applications.
 
-- **[Analytix](https://github.com/unix14/Analytix)**: Another Flutter library for integrating analytics and data funnels observations into your apps with ease.
+- **[analytix](https://github.com/unix14/Analytix)**: Another Flutter library for integrating analytics and data funnels observations into your apps with ease.
 
 ### Follow Me
 
 - **Blog**: [3P Cups Blog](https://3p-cups.blogspot.com/)
 
-- **LinkedIn**: [Eyal Yaakobi](https://linkedin.com/in/eyalyaakobi)
-
 - **Medium**: [@3p-cups](https://medium.com/@3p-cups)
 
 - **Bitbucket**: [3P Cups Dev](https://bitbucket.org/3pCupsDev)
+
+- **LinkedIn**: [Eyal Yaakobi](https://linkedin.com/in/eyalyaakobi)
 
 - **Itch.io**: [unix14](https://unix14.itch.io/)
 
