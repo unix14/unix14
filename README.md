@@ -24,7 +24,7 @@ I'm **Eyal Yaakobi**, a Senior Android Developer, Flutter Developer and AI Enthu
 ### Let's Collab
 
 I'm open to collaborations, freelance work, or project-based engagements. If you're interested in working together, feel free to reach out!
-- **Email**: [e-mail me](mailto:unix14@gmail.com)
+- **Email**: [Click here to email me](mailto:unix14@gmail.com)
 
 <!--
 **unix14/unix14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
