@@ -21,6 +21,9 @@ I'm **Eyal Yaakobi**, a Senior Android Developer, Flutter Developer and AI Enthu
 
 - **Itch.io**: [unix14](https://unix14.itch.io/)
 
+- **Pub.Dev Packages**: [3p-cups.com](https://pub.dev/publishers/3p-cups.com/packages)
+
+
 ### Let's Collab
 
 I'm open to collaborations, freelance work, or project-based engagements. If you're interested in working together, feel free to reach out!
