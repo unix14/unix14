@@ -11,6 +11,8 @@ I'm **Eyal Yaakobi**, a Senior Android Developer, Flutter Developer and AI Enthu
 
 ### Follow Me
 
+- **Pub.Dev Packages**: [3p-cups.com](https://pub.dev/publishers/3p-cups.com/packages)
+
 - **Blog**: [3P Cups Blog](https://3p-cups.blogspot.com/)
 
 - **Medium**: [@3p-cups](https://medium.com/@3p-cups)
@@ -20,8 +22,6 @@ I'm **Eyal Yaakobi**, a Senior Android Developer, Flutter Developer and AI Enthu
 - **LinkedIn**: [Eyal Yaakobi](https://linkedin.com/in/eyalyaakobi)
 
 - **Itch.io**: [unix14](https://unix14.itch.io/)
-
-- **Pub.Dev Packages**: [3p-cups.com](https://pub.dev/publishers/3p-cups.com/packages)
 
 
 ### Let's Collab
