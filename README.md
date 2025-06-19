@@ -29,19 +29,17 @@ I'm **Eyal Yaakobi**, a Senior Android Developer, Flutter Developer and AI Enthu
 I'm open to collaborations, freelance work, or project-based engagements. If you're interested in working together, feel free to reach out!
 - **Email**: [Click here to email me](mailto:unix14@gmail.com)
 
-
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=unix14&theme=vision-friendly-dark&include_all_commits=true&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=unix14&theme=vision-friendly-dark&include_all_commits=true&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="[https://github-readme-stats.vercel.app/api?username=unix14&show_icons=true](https://github-readme-stats.vercel.app/api?username=unix14&theme=vision-friendly&include_all_commits=true&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true)"
+    srcset="https://github-readme-stats.vercel.app/api?username=unix14&theme=vision-friendly&include_all_commits=true&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="[https://github-readme-stats.vercel.app/api?username=unix14&show_icons=true](https://github-readme-stats.vercel.app/api?username=unix14&theme=vision-friendly-dark&include_all_commits=true&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=unix14&theme=vision-friendly&include_all_commits=true&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
 </picture>
-
 
 <picture>
   <source
@@ -49,10 +47,9 @@ I'm open to collaborations, freelance work, or project-based engagements. If you
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="[https://github-readme-stats.vercel.app/api/top-langs/?username=unix14&hide_progress=true&theme=vision-friendly-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=unix14&hide_progress=true&theme=vision-friendly)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=unix14&hide_progress=true&theme=vision-friendly"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=unix14&hide_progress=true&theme=vision-friendly-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=unix14&hide_progress=true&theme=vision-friendly-dark)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unix14&hide_progress=true&theme=vision-friendly" alt="Top Languages"/>
 </picture>
-
 
