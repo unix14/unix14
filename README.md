@@ -28,3 +28,19 @@ I'm **Eyal Yaakobi**, a Senior Android Developer, Flutter Developer and AI Enthu
 
 I'm open to collaborations, freelance work, or project-based engagements. If you're interested in working together, feel free to reach out!
 - **Email**: [Click here to email me](mailto:unix14@gmail.com)
+
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=unix14&show_icons=true&theme=vision-friendly-dark&include_all_commits=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=unix14&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=unix14&show_icons=true" />
+</picture>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unix14&hide_progress=true&theme=vision-friendly-dark)
