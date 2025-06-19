@@ -32,15 +32,27 @@ I'm open to collaborations, freelance work, or project-based engagements. If you
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=unix14&show_icons=true&theme=vision-friendly-dark&include_all_commits=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=unix14&theme=vision-friendly-dark&include_all_commits=true&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=unix14&show_icons=true"
+    srcset="[https://github-readme-stats.vercel.app/api?username=unix14&show_icons=true](https://github-readme-stats.vercel.app/api?username=unix14&theme=vision-friendly&include_all_commits=true&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true)"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=unix14&show_icons=true" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=unix14&show_icons=true](https://github-readme-stats.vercel.app/api?username=unix14&theme=vision-friendly-dark&include_all_commits=true&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true)" />
 </picture>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unix14&hide_progress=true&theme=vision-friendly-dark)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=unix14&hide_progress=true&theme=vision-friendly-dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="[https://github-readme-stats.vercel.app/api/top-langs/?username=unix14&hide_progress=true&theme=vision-friendly-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=unix14&hide_progress=true&theme=vision-friendly)"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=unix14&hide_progress=true&theme=vision-friendly-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=unix14&hide_progress=true&theme=vision-friendly-dark)" />
+</picture>
+
+
